@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.contact
+{
+    margin-left: 400px;
+    margin-top: 100px;
+    /* padding-left: 1000px; */
+}
+.projects
+{
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.github 
+{
+    color:white;
+    text-decoration: none;
+}
+.github:hover
+{
+    color: rgb(254, 254, 255);
+    /* background-color: white; */
+}
